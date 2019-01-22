@@ -1,6 +1,6 @@
-vocab - https://www.youtube.com/watch?v=I9iTrmHOsrA
+#vocab - https://www.youtube.com/watch?v=I9iTrmHOsrA
 
--------verb infinitive------
+##verb infinitive
 ir - to go
 virar - to turn
 continuar - to continue
@@ -12,7 +12,7 @@ chegar - to arrive
 sair - to leave
 ficar - to stay, to be
 
------femenine nouns-------
+##femenine nouns
 a casa - house
 a rua - street
 a avenida - avenue
@@ -32,7 +32,7 @@ a entrada - entrance
 a saida - exit
 a praca - square
 
------masculine nouns-------
+##masculine nouns
 o semaforo - traffic light
 o cruzamento - cross roads
 o cafe - cafe
@@ -53,5 +53,5 @@ o museu - museum
 o hospital - hospital
 o predio - building
 
------purural nouns-------
+##purural nouns
 os correios - post office
